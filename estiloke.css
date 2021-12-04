@@ -1,0 +1,17 @@
+.container-flex {
+   display:flex;
+   flex-wrap: wrap;
+   background-color: greenyellow; 
+   font-size: 30px;
+   padding:10px;
+   border:1px solid gray;
+   width: 100%;
+}
+
+.container-flex div {
+    background-color:violet;
+    width: 20%;
+    margin: 10px;
+    border: 2px solid gray;
+    padding: 5%;
+}
